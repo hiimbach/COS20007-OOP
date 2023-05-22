@@ -1,0 +1,48 @@
+D:\Bach\Programming\C#\SplashKitDemo\bin\Debug\netcoreapp5.0\SplashKitDemo.exe
+D:\Bach\Programming\C#\SplashKitDemo\bin\Debug\netcoreapp5.0\SplashKitDemo.deps.json
+D:\Bach\Programming\C#\SplashKitDemo\bin\Debug\netcoreapp5.0\SplashKitDemo.runtimeconfig.json
+D:\Bach\Programming\C#\SplashKitDemo\bin\Debug\netcoreapp5.0\SplashKitDemo.runtimeconfig.dev.json
+D:\Bach\Programming\C#\SplashKitDemo\bin\Debug\netcoreapp5.0\SplashKitDemo.dll
+D:\Bach\Programming\C#\SplashKitDemo\bin\Debug\netcoreapp5.0\SplashKitDemo.pdb
+D:\Bach\Programming\C#\SplashKitDemo\obj\Debug\netcoreapp5.0\SplashKitDemo.csproj.AssemblyReference.cache
+D:\Bach\Programming\C#\SplashKitDemo\obj\Debug\netcoreapp5.0\SplashKitDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bach\Programming\C#\SplashKitDemo\obj\Debug\netcoreapp5.0\SplashKitDemo.AssemblyInfoInputs.cache
+D:\Bach\Programming\C#\SplashKitDemo\obj\Debug\netcoreapp5.0\SplashKitDemo.AssemblyInfo.cs
+D:\Bach\Programming\C#\SplashKitDemo\obj\Debug\netcoreapp5.0\SplashKitDemo.csproj.CoreCompileInputs.cache
+D:\Bach\Programming\C#\SplashKitDemo\obj\Debug\netcoreapp5.0\SplashKitDemo.dll
+D:\Bach\Programming\C#\SplashKitDemo\obj\Debug\netcoreapp5.0\refint\SplashKitDemo.dll
+D:\Bach\Programming\C#\SplashKitDemo\obj\Debug\netcoreapp5.0\SplashKitDemo.pdb
+D:\Bach\Programming\C#\SplashKitDemo\obj\Debug\netcoreapp5.0\SplashKitDemo.genruntimeconfig.cache
+D:\Bach\Programming\C#\SplashKitDemo\obj\Debug\netcoreapp5.0\ref\SplashKitDemo.dll
+D:\Bach\Programming\C#\Swin\Week 2\SplashKitDemo\obj\Debug\netcoreapp5.0\SplashKitDemo.csproj.AssemblyReference.cache
+D:\Bach\Programming\C#\Swin\Week 2\SplashKitDemo\obj\Debug\netcoreapp5.0\SplashKitDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bach\Programming\C#\Swin\Week 2\SplashKitDemo\obj\Debug\netcoreapp5.0\SplashKitDemo.AssemblyInfoInputs.cache
+D:\Bach\Programming\C#\Swin\Week 2\SplashKitDemo\obj\Debug\netcoreapp5.0\SplashKitDemo.AssemblyInfo.cs
+D:\Bach\Programming\C#\Swin\Week 2\SplashKitDemo\obj\Debug\netcoreapp5.0\SplashKitDemo.csproj.CoreCompileInputs.cache
+D:\Bach\Programming\C#\Swin\Week 2\SplashKitDemo\obj\Debug\netcoreapp5.0\SplashKitDemo.dll
+D:\Bach\Programming\C#\Swin\Week 2\SplashKitDemo\obj\Debug\netcoreapp5.0\refint\SplashKitDemo.dll
+D:\Bach\Programming\C#\Swin\Week 2\SplashKitDemo\obj\Debug\netcoreapp5.0\SplashKitDemo.pdb
+D:\Bach\Programming\C#\Swin\Week 2\SplashKitDemo\bin\Debug\netcoreapp5.0\SplashKitDemo.exe
+D:\Bach\Programming\C#\Swin\Week 2\SplashKitDemo\bin\Debug\netcoreapp5.0\SplashKitDemo.deps.json
+D:\Bach\Programming\C#\Swin\Week 2\SplashKitDemo\bin\Debug\netcoreapp5.0\SplashKitDemo.runtimeconfig.json
+D:\Bach\Programming\C#\Swin\Week 2\SplashKitDemo\bin\Debug\netcoreapp5.0\SplashKitDemo.runtimeconfig.dev.json
+D:\Bach\Programming\C#\Swin\Week 2\SplashKitDemo\bin\Debug\netcoreapp5.0\SplashKitDemo.dll
+D:\Bach\Programming\C#\Swin\Week 2\SplashKitDemo\bin\Debug\netcoreapp5.0\SplashKitDemo.pdb
+D:\Bach\Programming\C#\Swin\Week 2\SplashKitDemo\obj\Debug\netcoreapp5.0\SplashKitDemo.genruntimeconfig.cache
+D:\Bach\Programming\C#\Swin\Week 2\SplashKitDemo\obj\Debug\netcoreapp5.0\ref\SplashKitDemo.dll
+D:\Bach\Programming\C#\Swin\Week 3\Test\Program\obj\Debug\netcoreapp5.0\SplashKitDemo.csproj.AssemblyReference.cache
+D:\Bach\Programming\C#\Swin\Week 3\Test\Program\obj\Debug\netcoreapp5.0\SplashKitDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bach\Programming\C#\Swin\Week 3\Test\Program\obj\Debug\netcoreapp5.0\SplashKitDemo.AssemblyInfoInputs.cache
+D:\Bach\Programming\C#\Swin\Week 3\Test\Program\obj\Debug\netcoreapp5.0\SplashKitDemo.AssemblyInfo.cs
+D:\Bach\Programming\C#\Swin\Week 3\Test\Program\obj\Debug\netcoreapp5.0\SplashKitDemo.csproj.CoreCompileInputs.cache
+D:\Bach\Programming\C#\Swin\Week 3\Test\Program\obj\Debug\netcoreapp5.0\SplashKitDemo.dll
+D:\Bach\Programming\C#\Swin\Week 3\Test\Program\obj\Debug\netcoreapp5.0\refint\SplashKitDemo.dll
+D:\Bach\Programming\C#\Swin\Week 3\Test\Program\obj\Debug\netcoreapp5.0\SplashKitDemo.pdb
+D:\Bach\Programming\C#\Swin\Week 3\Test\Program\bin\Debug\netcoreapp5.0\SplashKitDemo.exe
+D:\Bach\Programming\C#\Swin\Week 3\Test\Program\bin\Debug\netcoreapp5.0\SplashKitDemo.deps.json
+D:\Bach\Programming\C#\Swin\Week 3\Test\Program\bin\Debug\netcoreapp5.0\SplashKitDemo.runtimeconfig.json
+D:\Bach\Programming\C#\Swin\Week 3\Test\Program\bin\Debug\netcoreapp5.0\SplashKitDemo.runtimeconfig.dev.json
+D:\Bach\Programming\C#\Swin\Week 3\Test\Program\bin\Debug\netcoreapp5.0\SplashKitDemo.dll
+D:\Bach\Programming\C#\Swin\Week 3\Test\Program\bin\Debug\netcoreapp5.0\SplashKitDemo.pdb
+D:\Bach\Programming\C#\Swin\Week 3\Test\Program\obj\Debug\netcoreapp5.0\SplashKitDemo.genruntimeconfig.cache
+D:\Bach\Programming\C#\Swin\Week 3\Test\Program\obj\Debug\netcoreapp5.0\ref\SplashKitDemo.dll

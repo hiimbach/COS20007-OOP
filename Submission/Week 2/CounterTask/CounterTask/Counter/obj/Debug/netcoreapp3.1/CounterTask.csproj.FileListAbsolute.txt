@@ -1,0 +1,28 @@
+D:\Bach\Programming\C#\Swin\Week 2\New folder\Counter\bin\Debug\netcoreapp3.1\CounterTask.exe
+D:\Bach\Programming\C#\Swin\Week 2\New folder\Counter\bin\Debug\netcoreapp3.1\CounterTask.deps.json
+D:\Bach\Programming\C#\Swin\Week 2\New folder\Counter\bin\Debug\netcoreapp3.1\CounterTask.runtimeconfig.json
+D:\Bach\Programming\C#\Swin\Week 2\New folder\Counter\bin\Debug\netcoreapp3.1\CounterTask.runtimeconfig.dev.json
+D:\Bach\Programming\C#\Swin\Week 2\New folder\Counter\bin\Debug\netcoreapp3.1\CounterTask.dll
+D:\Bach\Programming\C#\Swin\Week 2\New folder\Counter\bin\Debug\netcoreapp3.1\CounterTask.pdb
+D:\Bach\Programming\C#\Swin\Week 2\New folder\Counter\obj\Debug\netcoreapp3.1\CounterTask.csproj.AssemblyReference.cache
+D:\Bach\Programming\C#\Swin\Week 2\New folder\Counter\obj\Debug\netcoreapp3.1\CounterTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bach\Programming\C#\Swin\Week 2\New folder\Counter\obj\Debug\netcoreapp3.1\CounterTask.AssemblyInfoInputs.cache
+D:\Bach\Programming\C#\Swin\Week 2\New folder\Counter\obj\Debug\netcoreapp3.1\CounterTask.AssemblyInfo.cs
+D:\Bach\Programming\C#\Swin\Week 2\New folder\Counter\obj\Debug\netcoreapp3.1\CounterTask.csproj.CoreCompileInputs.cache
+D:\Bach\Programming\C#\Swin\Week 2\New folder\Counter\obj\Debug\netcoreapp3.1\CounterTask.dll
+D:\Bach\Programming\C#\Swin\Week 2\New folder\Counter\obj\Debug\netcoreapp3.1\CounterTask.pdb
+D:\Bach\Programming\C#\Swin\Week 2\New folder\Counter\obj\Debug\netcoreapp3.1\CounterTask.genruntimeconfig.cache
+D:\Bach\Programming\C#\Swin\Week 2\CounterTask\Counter\bin\Debug\netcoreapp3.1\CounterTask.exe
+D:\Bach\Programming\C#\Swin\Week 2\CounterTask\Counter\bin\Debug\netcoreapp3.1\CounterTask.deps.json
+D:\Bach\Programming\C#\Swin\Week 2\CounterTask\Counter\bin\Debug\netcoreapp3.1\CounterTask.runtimeconfig.json
+D:\Bach\Programming\C#\Swin\Week 2\CounterTask\Counter\bin\Debug\netcoreapp3.1\CounterTask.runtimeconfig.dev.json
+D:\Bach\Programming\C#\Swin\Week 2\CounterTask\Counter\bin\Debug\netcoreapp3.1\CounterTask.dll
+D:\Bach\Programming\C#\Swin\Week 2\CounterTask\Counter\bin\Debug\netcoreapp3.1\CounterTask.pdb
+D:\Bach\Programming\C#\Swin\Week 2\CounterTask\Counter\obj\Debug\netcoreapp3.1\CounterTask.csproj.AssemblyReference.cache
+D:\Bach\Programming\C#\Swin\Week 2\CounterTask\Counter\obj\Debug\netcoreapp3.1\CounterTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bach\Programming\C#\Swin\Week 2\CounterTask\Counter\obj\Debug\netcoreapp3.1\CounterTask.AssemblyInfoInputs.cache
+D:\Bach\Programming\C#\Swin\Week 2\CounterTask\Counter\obj\Debug\netcoreapp3.1\CounterTask.AssemblyInfo.cs
+D:\Bach\Programming\C#\Swin\Week 2\CounterTask\Counter\obj\Debug\netcoreapp3.1\CounterTask.csproj.CoreCompileInputs.cache
+D:\Bach\Programming\C#\Swin\Week 2\CounterTask\Counter\obj\Debug\netcoreapp3.1\CounterTask.dll
+D:\Bach\Programming\C#\Swin\Week 2\CounterTask\Counter\obj\Debug\netcoreapp3.1\CounterTask.pdb
+D:\Bach\Programming\C#\Swin\Week 2\CounterTask\Counter\obj\Debug\netcoreapp3.1\CounterTask.genruntimeconfig.cache

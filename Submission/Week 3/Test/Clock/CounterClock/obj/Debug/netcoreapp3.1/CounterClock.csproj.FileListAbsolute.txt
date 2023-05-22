@@ -1,0 +1,14 @@
+D:\Bach\Programming\C#\Swin\Week 3\Clock\CounterClock\bin\Debug\netcoreapp3.1\CounterClock.exe
+D:\Bach\Programming\C#\Swin\Week 3\Clock\CounterClock\bin\Debug\netcoreapp3.1\CounterClock.deps.json
+D:\Bach\Programming\C#\Swin\Week 3\Clock\CounterClock\bin\Debug\netcoreapp3.1\CounterClock.runtimeconfig.json
+D:\Bach\Programming\C#\Swin\Week 3\Clock\CounterClock\bin\Debug\netcoreapp3.1\CounterClock.runtimeconfig.dev.json
+D:\Bach\Programming\C#\Swin\Week 3\Clock\CounterClock\bin\Debug\netcoreapp3.1\CounterClock.dll
+D:\Bach\Programming\C#\Swin\Week 3\Clock\CounterClock\bin\Debug\netcoreapp3.1\CounterClock.pdb
+D:\Bach\Programming\C#\Swin\Week 3\Clock\CounterClock\obj\Debug\netcoreapp3.1\CounterClock.csproj.AssemblyReference.cache
+D:\Bach\Programming\C#\Swin\Week 3\Clock\CounterClock\obj\Debug\netcoreapp3.1\CounterClock.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bach\Programming\C#\Swin\Week 3\Clock\CounterClock\obj\Debug\netcoreapp3.1\CounterClock.AssemblyInfoInputs.cache
+D:\Bach\Programming\C#\Swin\Week 3\Clock\CounterClock\obj\Debug\netcoreapp3.1\CounterClock.AssemblyInfo.cs
+D:\Bach\Programming\C#\Swin\Week 3\Clock\CounterClock\obj\Debug\netcoreapp3.1\CounterClock.csproj.CoreCompileInputs.cache
+D:\Bach\Programming\C#\Swin\Week 3\Clock\CounterClock\obj\Debug\netcoreapp3.1\CounterClock.dll
+D:\Bach\Programming\C#\Swin\Week 3\Clock\CounterClock\obj\Debug\netcoreapp3.1\CounterClock.pdb
+D:\Bach\Programming\C#\Swin\Week 3\Clock\CounterClock\obj\Debug\netcoreapp3.1\CounterClock.genruntimeconfig.cache

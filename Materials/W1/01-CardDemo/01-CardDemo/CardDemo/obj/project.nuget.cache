@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "90+xyekyMdIRv6e9OyeLwpUVimVPh+5j5CiK9q/W3V9D/RpzX8Ywo1CBfaSyax3BbyPNjRjOjr5Um00k9Cbi/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Le Nho Bach\\Downloads\\20007_OOP-20220511T152436Z-001\\20007_OOP\\Materials\\W1\\01-CardDemo\\01-CardDemo\\CardDemo\\CardDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Le Nho Bach\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512",
+    "C:\\Users\\Le Nho Bach\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Le Nho Bach\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Le Nho Bach\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

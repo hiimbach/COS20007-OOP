@@ -1,0 +1,24 @@
+/Users/cpierce/Dropbox/Teaching/OOP/LectureDemos/CardDemo/CardDemo/bin/Debug/netcoreapp3.1/CardDemo.deps.json
+/Users/cpierce/Dropbox/Teaching/OOP/LectureDemos/CardDemo/CardDemo/bin/Debug/netcoreapp3.1/CardDemo.runtimeconfig.json
+/Users/cpierce/Dropbox/Teaching/OOP/LectureDemos/CardDemo/CardDemo/bin/Debug/netcoreapp3.1/CardDemo.runtimeconfig.dev.json
+/Users/cpierce/Dropbox/Teaching/OOP/LectureDemos/CardDemo/CardDemo/bin/Debug/netcoreapp3.1/CardDemo.dll
+/Users/cpierce/Dropbox/Teaching/OOP/LectureDemos/CardDemo/CardDemo/bin/Debug/netcoreapp3.1/CardDemo.pdb
+/Users/cpierce/Dropbox/Teaching/OOP/LectureDemos/CardDemo/CardDemo/obj/Debug/netcoreapp3.1/CardDemo.csprojAssemblyReference.cache
+/Users/cpierce/Dropbox/Teaching/OOP/LectureDemos/CardDemo/CardDemo/obj/Debug/netcoreapp3.1/CardDemo.AssemblyInfoInputs.cache
+/Users/cpierce/Dropbox/Teaching/OOP/LectureDemos/CardDemo/CardDemo/obj/Debug/netcoreapp3.1/CardDemo.AssemblyInfo.cs
+/Users/cpierce/Dropbox/Teaching/OOP/LectureDemos/CardDemo/CardDemo/obj/Debug/netcoreapp3.1/CardDemo.dll
+/Users/cpierce/Dropbox/Teaching/OOP/LectureDemos/CardDemo/CardDemo/obj/Debug/netcoreapp3.1/CardDemo.pdb
+C:\Users\Le Nho Bach\Downloads\20007_OOP-20220511T152436Z-001\20007_OOP\Materials\W1\01-CardDemo\01-CardDemo\CardDemo\bin\Debug\netcoreapp3.1\CardDemo.exe
+C:\Users\Le Nho Bach\Downloads\20007_OOP-20220511T152436Z-001\20007_OOP\Materials\W1\01-CardDemo\01-CardDemo\CardDemo\bin\Debug\netcoreapp3.1\CardDemo.deps.json
+C:\Users\Le Nho Bach\Downloads\20007_OOP-20220511T152436Z-001\20007_OOP\Materials\W1\01-CardDemo\01-CardDemo\CardDemo\bin\Debug\netcoreapp3.1\CardDemo.runtimeconfig.json
+C:\Users\Le Nho Bach\Downloads\20007_OOP-20220511T152436Z-001\20007_OOP\Materials\W1\01-CardDemo\01-CardDemo\CardDemo\bin\Debug\netcoreapp3.1\CardDemo.runtimeconfig.dev.json
+C:\Users\Le Nho Bach\Downloads\20007_OOP-20220511T152436Z-001\20007_OOP\Materials\W1\01-CardDemo\01-CardDemo\CardDemo\bin\Debug\netcoreapp3.1\CardDemo.dll
+C:\Users\Le Nho Bach\Downloads\20007_OOP-20220511T152436Z-001\20007_OOP\Materials\W1\01-CardDemo\01-CardDemo\CardDemo\bin\Debug\netcoreapp3.1\CardDemo.pdb
+C:\Users\Le Nho Bach\Downloads\20007_OOP-20220511T152436Z-001\20007_OOP\Materials\W1\01-CardDemo\01-CardDemo\CardDemo\obj\Debug\netcoreapp3.1\CardDemo.csproj.AssemblyReference.cache
+C:\Users\Le Nho Bach\Downloads\20007_OOP-20220511T152436Z-001\20007_OOP\Materials\W1\01-CardDemo\01-CardDemo\CardDemo\obj\Debug\netcoreapp3.1\CardDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Le Nho Bach\Downloads\20007_OOP-20220511T152436Z-001\20007_OOP\Materials\W1\01-CardDemo\01-CardDemo\CardDemo\obj\Debug\netcoreapp3.1\CardDemo.AssemblyInfoInputs.cache
+C:\Users\Le Nho Bach\Downloads\20007_OOP-20220511T152436Z-001\20007_OOP\Materials\W1\01-CardDemo\01-CardDemo\CardDemo\obj\Debug\netcoreapp3.1\CardDemo.AssemblyInfo.cs
+C:\Users\Le Nho Bach\Downloads\20007_OOP-20220511T152436Z-001\20007_OOP\Materials\W1\01-CardDemo\01-CardDemo\CardDemo\obj\Debug\netcoreapp3.1\CardDemo.csproj.CoreCompileInputs.cache
+C:\Users\Le Nho Bach\Downloads\20007_OOP-20220511T152436Z-001\20007_OOP\Materials\W1\01-CardDemo\01-CardDemo\CardDemo\obj\Debug\netcoreapp3.1\CardDemo.dll
+C:\Users\Le Nho Bach\Downloads\20007_OOP-20220511T152436Z-001\20007_OOP\Materials\W1\01-CardDemo\01-CardDemo\CardDemo\obj\Debug\netcoreapp3.1\CardDemo.pdb
+C:\Users\Le Nho Bach\Downloads\20007_OOP-20220511T152436Z-001\20007_OOP\Materials\W1\01-CardDemo\01-CardDemo\CardDemo\obj\Debug\netcoreapp3.1\CardDemo.genruntimeconfig.cache

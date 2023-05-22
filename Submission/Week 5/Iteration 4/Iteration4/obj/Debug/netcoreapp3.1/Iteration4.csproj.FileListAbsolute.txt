@@ -1,0 +1,14 @@
+D:\Bach\Programming\C#\Swin\Week 5\Iteration 4\Iteration4\bin\Debug\netcoreapp3.1\Iteration4.exe
+D:\Bach\Programming\C#\Swin\Week 5\Iteration 4\Iteration4\bin\Debug\netcoreapp3.1\Iteration4.deps.json
+D:\Bach\Programming\C#\Swin\Week 5\Iteration 4\Iteration4\bin\Debug\netcoreapp3.1\Iteration4.runtimeconfig.json
+D:\Bach\Programming\C#\Swin\Week 5\Iteration 4\Iteration4\bin\Debug\netcoreapp3.1\Iteration4.runtimeconfig.dev.json
+D:\Bach\Programming\C#\Swin\Week 5\Iteration 4\Iteration4\bin\Debug\netcoreapp3.1\Iteration4.dll
+D:\Bach\Programming\C#\Swin\Week 5\Iteration 4\Iteration4\bin\Debug\netcoreapp3.1\Iteration4.pdb
+D:\Bach\Programming\C#\Swin\Week 5\Iteration 4\Iteration4\obj\Debug\netcoreapp3.1\Iteration4.csproj.AssemblyReference.cache
+D:\Bach\Programming\C#\Swin\Week 5\Iteration 4\Iteration4\obj\Debug\netcoreapp3.1\Iteration4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bach\Programming\C#\Swin\Week 5\Iteration 4\Iteration4\obj\Debug\netcoreapp3.1\Iteration4.AssemblyInfoInputs.cache
+D:\Bach\Programming\C#\Swin\Week 5\Iteration 4\Iteration4\obj\Debug\netcoreapp3.1\Iteration4.AssemblyInfo.cs
+D:\Bach\Programming\C#\Swin\Week 5\Iteration 4\Iteration4\obj\Debug\netcoreapp3.1\Iteration4.csproj.CoreCompileInputs.cache
+D:\Bach\Programming\C#\Swin\Week 5\Iteration 4\Iteration4\obj\Debug\netcoreapp3.1\Iteration4.dll
+D:\Bach\Programming\C#\Swin\Week 5\Iteration 4\Iteration4\obj\Debug\netcoreapp3.1\Iteration4.pdb
+D:\Bach\Programming\C#\Swin\Week 5\Iteration 4\Iteration4\obj\Debug\netcoreapp3.1\Iteration4.genruntimeconfig.cache
